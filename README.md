@@ -19,21 +19,20 @@ This project combines a simple, user-friendly interface with interactive quizzes
 - **Styling**: Custom CSS for a modern, responsive design.
 
 - # **Project Details**
-# **Homepage**
+## **Homepage**
 The homepage serves as the gateway to all platform features. It includes:
+- **Sign In/Sign Up Form:** Users can log in to track their quiz progress.
+- **Start Quiz Button:** Launches the quiz interface.
+- **Social Media Links:** Quick access to Instagram, LinkedIn, Twitter, and Facebook.
 
-Sign In/Sign Up Form: Users can log in to track their quiz progress.
-Start Quiz Button: Launches the quiz interface.
-Social Media Links: Quick access to Instagram, LinkedIn, Twitter, and Facebook.
-Quiz Interface
-The quiz dynamically loads questions, allows navigation between questions, and provides a final score when completed.
-Users can download their results in a structured format (e.g., PDF).
-AI Information
-Contains in-depth articles and links on AI, including beginner-friendly definitions and explanations of AI topics.
-How to Use
-Sign Up/Log In:
+## **Quiz Interface**
+- The quiz dynamically loads questions, allows navigation between questions, and provides a final score when completed.
+- Users can download their results in a structured format (e.g., PDF).
+- **AI Information:** Contains in-depth articles and links on AI, including beginner-friendly definitions and explanations of AI topics.
 
-New users can register to keep track of their progress. Already registered? Just log in to pick up where you left off.
+## **How to Use
+- Sign Up/Log In:
+- New users can register to keep track of their progress. Already registered? Just log in to pick up where you left off.
 Start a Quiz:
 
 Click on "Start Quiz" from the homepage. You’ll be presented with a series of AI-related questions.
